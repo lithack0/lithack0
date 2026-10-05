@@ -46,7 +46,7 @@ security tooling
 
 ### writing
 
-[blog](https://lithack0.blogspot.com/)
+[blog](https://lithack0.github.io/117h4ck0/)
 
 ### connect
 
